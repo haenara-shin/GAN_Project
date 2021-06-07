@@ -1,15 +1,11 @@
 ```bash
 .
-|-- Code\ 
-|   |-- 
-|   #`-- (requirements.txt)
-|-- Study_meeting
+|-- Code
+|   |-- TF-Level2-lectures\ Just for references
+|-- Study_meeting\ Updated after every meeting
 |-- Paper\ 
 |   |-- Nara
-|   #`-- (end)
-`-- PPT
-    #|-- 
-    
+|-- PPT\     
 ```
 
 ## Code
