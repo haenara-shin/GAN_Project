@@ -1,7 +1,7 @@
 ```bash
 .
 |-- Code
-|   |-- TF-Level2-lectures\ Just for references
+|   |-- TF-Level2-lectures\ references
 |-- Study_meeting\ Updated after every meeting
 |-- Paper\ 
 |   |-- Nara
