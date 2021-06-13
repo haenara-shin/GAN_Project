@@ -3,6 +3,7 @@
 |-- Code
 |   |-- TF-Level2-lectures\ references
 |   |-- FUNIT\ NVDIA FUNIT Pretrained model
+|   |-- CGAN_Tutorial for MNIST
 |-- Study_meeting\ Updated after every meeting
 |-- Paper\ 
 |   |-- Nara
