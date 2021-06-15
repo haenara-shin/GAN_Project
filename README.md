@@ -5,9 +5,10 @@
 |   |-- FUNIT\ NVDIA FUNIT Pretrained model
 |   |-- CGAN_Tutorial for MNIST
 |-- Study_meeting\ Updated after every meeting
-|-- Paper\ 
+|-- Paper\
 |   |-- Nara
 |-- PPT\
+|   |-- Jiyoon
 |   |-- Nara     
 ```
 
