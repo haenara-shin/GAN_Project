@@ -1,4 +1,6 @@
 
+참고) [Naver 발표자료](https://www.youtube.com/watch?v=D80h0MfaspA)
+
 ### background
 
 1. Conditional GAN - latent vector(random)와 함께 Condition(y)을 받을 수 있다(무작위가 아닌 목표로 하는 이미지를 생성)
