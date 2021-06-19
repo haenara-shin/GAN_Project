@@ -10,7 +10,8 @@
 |   |-- Nara
 |-- PPT\
 |   |-- Jiyoon
-|   |-- Nara     
+|   |-- Nara
+|   |-- Seungwon 
 ```
 
 ## Code
