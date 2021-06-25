@@ -31,7 +31,7 @@
 ## 2. Verification (6/20~)
 - StyleGAN2-ada [@seungwon song](https://github.com/sw-song)
 - Animal Transfiguration -> Attention-Gan,cycle gan (JiYoon)
-- ..ing
+- Progressive Face Aging (PFA) GAN [@haenara](https://github.com/Hzzone/PFA-GAN) - Verification failed ㅠㅠ
 
 ## 3. Modeling
 -
