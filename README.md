@@ -30,6 +30,7 @@
 
 ## 2. Verification (6/20~)
 - StyleGAN2-ada [@seungwon song](https://github.com/sw-song)
+- Animal Transfiguration -> Attention-Gan,cycle gan (JiYoon)
 - ..ing
 
 ## 3. Modeling
