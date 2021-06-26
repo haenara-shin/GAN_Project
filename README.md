@@ -34,7 +34,7 @@
 - Progressive Face Aging (PFA) GAN [@haenara](https://github.com/Hzzone/PFA-GAN) - Verification failed ㅠㅠ
 
 ## 3. Test (6/26~)
-- [테스트 코드 (Style Conversion)](https://github.com/haenara-shin/GAN_Project/blob/master/Modeling/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
+- [테스트 코드 (Style Conversion)](https://github.com/haenara-shin/GAN_Project/blob/master/Test/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
 -
 -
 
