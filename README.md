@@ -62,7 +62,11 @@ by subtracting `sample_before` from `sample_after`)
 %cd stylegan2-ada-pytorch/ 
 
 # run python command
-!python conversion.py --sample_before 'sample_before.jpg' --sample_after 'sample_after.jpg' --target_before 'target_before.jpg' --target_after 'target_after.jpg' --network 'https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/afhqdog.pkl'
+
+!python conversion.py --sample_before s_b.png --sample_after s_a.png \
+                      --target_before t_b.png --target_after t_a.png \
+                      --network https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/afhqdog.pkl
+```
 ```
 - [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
 
