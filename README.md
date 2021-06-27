@@ -15,9 +15,10 @@
 |-- Verification
 |   |-- StyleGAN2-ada
 |       |-- code
-|       |-- test
+|       |-- result
 |-- Test
-|   |-- Style_conversion.ipynb
+|   |-- code
+|   |-- result
 |-- Study_meeting\ Updated after every meeting
 
 ```
@@ -34,10 +35,10 @@
 - Progressive Face Aging (PFA) GAN [@haenara](https://github.com/Hzzone/PFA-GAN) - Verification failed ㅠㅠ
 
 ## 3. Test (6/26~)
-- [주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
-- [파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/custom.py) [@seungwon song](https://github.com/sw-song)
+- [StyleGAN2-ada | 주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
+- [StyleGAN2-ada | 파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/custom.py) [@seungwon song](https://github.com/sw-song)
 
-> .py 파일 Colab에서 실행하기 --> [Example](https://github.com/haenara-shin/GAN_Project/blob/master/Test/style_conversion_using_py_in_colab.ipynb)
+> .py 파일 Colab에서 실행하기 --> [Example](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion_using_py_in_colab.ipynb)
 ```
 !git clone https://github.com/sw-song/stylegan2-ada-pytorch.git
 
@@ -50,7 +51,7 @@
 # run python command
 !python custom.py --sample_before 'sample_before.png' --sample_after 'sample_after.png' --target_before 'target_before.png' --target_after 'target_after.png'
 ```
-
+- [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/blob/master/Test/reuslt/siba_inu)  [@seungwon song](https://github.com/sw-song)
 
 ---
 ## Study_meeting
