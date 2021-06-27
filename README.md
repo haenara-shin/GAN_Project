@@ -69,7 +69,7 @@ by subtracting `sample_before` from `sample_after`)
 ```
 ```
 - [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
-
+```
 ---
 ## Study_meeting
 - `6/ 7 (Mon)` | Roadmap & Strategy
