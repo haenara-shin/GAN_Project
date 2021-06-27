@@ -51,7 +51,7 @@
 # run python command
 !python custom.py --sample_before 'sample_before.png' --sample_after 'sample_after.png' --target_before 'target_before.png' --target_after 'target_after.png'
 ```
-- [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/blob/master/Test/reuslt/siba_inu)  [@seungwon song](https://github.com/sw-song)
+- [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
 
 ---
 ## Study_meeting
