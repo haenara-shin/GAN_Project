@@ -38,6 +38,19 @@
 - [StyleGAN2-ada | 주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
 - [StyleGAN2-ada | 파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/custom.py) [@seungwon song](https://github.com/sw-song)
 
+> .py 테스트코드 가이드
+
+To convert image, we need target image that want to convert and `W` that contains style information.
+
+First, We extract `W` from 2 sample images. One(`sample_after`) is an image expressing a specific style(ex. smile, skin, age etc.), 
+The other(`sample_before`) doesn't have that style (the more completely identical other features here, the better).
+
+- input image : `sample before`, `sample after`, `target before`
+- output `W` : 'get_w.pt' (extracted Style 
+by subtracting `sample_before` from `sample_after`)
+- output image : `target after`
+
+
 > .py 파일 Colab에서 실행하기 --> [Example](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion_using_py_in_colab.ipynb)
 ```
 !git clone https://github.com/sw-song/stylegan2-ada-pytorch.git
@@ -49,7 +62,7 @@
 %cd stylegan2-ada-pytorch/ 
 
 # run python command
-!python custom.py --sample_before 'sample_before.png' --sample_after 'sample_after.png' --target_before 'target_before.png' --target_after 'target_after.png'
+!python conversion.py --sample_before 'sample_before.jpg' --sample_after 'sample_after.jpg' --target_before 'target_before.jpg' --target_after 'target_after.jpg' --network 'https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/afhqdog.pkl'
 ```
 - [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
 
