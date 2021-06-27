@@ -37,7 +37,7 @@
 - [주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
 - [파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/custom.py) [@seungwon song](https://github.com/sw-song)
 
-> .py 파일 Colab에서 실행하기 --> [Example](style_conversion_using_py_in_colab)
+> .py 파일 Colab에서 실행하기 --> [Example](https://github.com/haenara-shin/GAN_Project/blob/master/Test/style_conversion_using_py_in_colab.ipynb)
 ```
 !git clone https://github.com/sw-song/stylegan2-ada-pytorch.git
 
