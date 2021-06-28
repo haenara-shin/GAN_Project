@@ -19,6 +19,7 @@
 |-- Test
 |   |-- code
 |   |-- result
+|   |-- 모델 설명
 |-- Study_meeting\ Updated after every meeting
 
 ```
@@ -37,7 +38,6 @@
 ## 3. Test (6/26~)
 - [StyleGAN2-ada | 주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
 - [StyleGAN2-ada | 파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/custom.py) [@seungwon song](https://github.com/sw-song)
-- Ada,Stylegan,Stylegan2 논문 설명 (모델 설명 📁)  
 
 > .py 테스트코드 가이드
 
@@ -68,9 +68,9 @@ by subtracting `sample_before` from `sample_after`)
                       --target_before t_b.png --target_after t_a.png \
                       --network https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/afhqdog.pkl
 ```
-```
+
 - [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
-```
+- [Ada,Stylegan,Stylegan2 논문 설명 (모델 설명 📁)](https://github.com/haenara-shin/GAN_Project/tree/master/Test/모델%20설명)  [@jiyoon baek](https://github.com/jiyoonbaekbaek)
 ---
 ## Study_meeting
 - `6/ 7 (Mon)` | Roadmap & Strategy
