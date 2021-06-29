@@ -72,6 +72,7 @@ by subtracting `sample_before` from `sample_after`)
 - [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
 - [Ada,Stylegan,Stylegan2 논문 설명 (모델 설명 📁)](https://github.com/haenara-shin/GAN_Project/tree/master/Test/모델%20설명)  [@jiyoon baek](https://github.com/jiyoonbaekbaek)
 - [StyleGAN2-ada | 테스트 코드/결과 | 웰시코기, 시바견, 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_conversion_with_interpolation.ipynb) [@seungwon song](https://github.com/sw-song)
+- [Style Transfer | 테스트 코드/결과 | 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_transfer_test.ipynb) [@seungwon song](https://github.com/sw-song)
 ---
 ## Study_meeting
 - `6/ 7 (Mon)` | Roadmap & Strategy
