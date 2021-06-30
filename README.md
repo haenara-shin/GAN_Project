@@ -35,7 +35,7 @@
 - Animal Transfiguration -> Attention-Gan,cycle gan [@jiyoon baek](https://github.com/jiyoonbaekbaek)
 - Progressive Face Aging (PFA) GAN [@haenara](https://github.com/Hzzone/PFA-GAN) - Failed
 
-## 3. Test (6/26~)
+## 3. Test I : 반려견 과거 이미지 생성 (6/26~6/30)
 - [StyleGAN2-ada | 주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
 - [StyleGAN2-ada | 파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/conversion.py) [@seungwon song](https://github.com/sw-song)
 
@@ -71,16 +71,20 @@ by subtracting `sample_before` from `sample_after`)
 
 - [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
 - [Ada,Stylegan,Stylegan2 논문 설명 (모델 설명 📁)](https://github.com/haenara-shin/GAN_Project/tree/master/Test/모델%20설명)  [@jiyoon baek](https://github.com/jiyoonbaekbaek)
-- [StyleGAN2-ada | 테스트 코드/결과 | 웰시코기, 시바견, 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_conversion_with_interpolation.ipynb) [@seungwon song](https://github.com/sw-song)
-- [Style Transfer | 테스트 코드/결과 | 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_transfer_test.ipynb) [@seungwon song](https://github.com/sw-song)
-- [StyleGAN2-ada | 테스트 코드/결과 | 요키+body+background](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/image_projection_test_body.ipynb) [@seungwon song](https://github.com/sw-song)
+- [StyleGAN2-ada | 테스트 코드/결과 | 웰시코기, 시바견, 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_conversion_with_interpolation.ipynb) [@seungwon song](https://github.com/sw-song) ❎
+- [Style Transfer | 테스트 코드/결과 | 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_transfer_test.ipynb) [@seungwon song](https://github.com/sw-song) ❎
+- [StyleGAN2-ada | 테스트 코드/결과 | 요키+body+background](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/image_projection_test_body.ipynb) [@seungwon song](https://github.com/sw-song) ❎
+
+## 4. Test II : 반려견 성장 비디오 생성 (6/30~)
+- 
+
 ---
 ## Study_meeting
 - `6/ 7 (Mon)` | Roadmap & Strategy
 - `6/14 (Mon)` | Basic Research - GAN, ConditionalGAN
 - `6/19 (Sat)` | Basic Research - CycleGAN, StarGAN
 - `6/26 (Sat)` | Model Verification - StyleGAN2-ada✅ PFA-GAN❎ Cycle-GAN❎
-- `6/30 (Wed)` | Model Test - ..ing
+- `6/30 (Wed)` | Model Test - StyleGAN2-ada ❎ | **Change our task to create a growing-up-video**
 
 ## Useful link 
 1. [GAN-ZOO](https://github.com/hindupuravinash/the-gan-zoo)
