@@ -20,6 +20,10 @@
 |   |-- code
 |   |-- result
 |   |-- 모델 설명
+|-- Submit
+|   |-- data
+|   |-- input\ stylegan2_ada_pytorch
+|   |-- output
 |-- Study_meeting\ Updated after every meeting
 
 ```
