@@ -20,7 +20,7 @@
 |   |-- code
 |   |-- result
 |   |-- 모델 설명
-|-- submit
+|-- submit\ Including Dockerfile
 |-- Study_meeting\ Updated after every meeting
 
 ```
