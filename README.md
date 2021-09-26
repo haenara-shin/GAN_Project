@@ -34,7 +34,7 @@
 ## 2. Verification (6/20~6/26)
 - StyleGAN2-ada [@seungwon song](https://github.com/sw-song)
 - Animal Transfiguration -> Attention-Gan,cycle gan [@jiyoon baek](https://github.com/jiyoonbaekbaek) 
-I mistakenly deleted my cycle gan directory stored in my lab server computer by typing rm :( 
+I mistakenly deleted a cycle gan directory I made in my lab server computer by typing rm :( 
 My initial attempts were to provide both corrupted images loaded from .ipynb file and datasets crawled from web portals 
 but I really am sorry for what happened. Instead, I'll provide a tutorial code @lornatang uploaded. Thanks for providing amazing codes !
 reference : [cycle gan from lornatang](https://github.com/Lornatang/CycleGAN-PyTorch)
