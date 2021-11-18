@@ -28,11 +28,11 @@
 ## 1. Research (6/7~6/19)
 - Basic-GAN [@jiyoon baek](https://github.com/jiyoonbaekbaek)
 - Conditional-GAN [@haenara shin](https://github.com/haenara-shin)
-- CycleGAN [@seungwon song](https://github.com/sw-song)
-- StarGAN [@seungwon song](https://github.com/sw-song)
+- CycleGAN [@seungwon song](https://github.com/seungson)
+- StarGAN [@seungwon song](https://github.com/seungson)
 
 ## 2. Verification (6/20~6/26)
-- StyleGAN2-ada [@seungwon song](https://github.com/sw-song)
+- StyleGAN2-ada [@seungwon song](https://github.com/seungson)
 - Animal Transfiguration -> Attention-Gan,cycle gan [@jiyoon baek](https://github.com/jiyoonbaekbaek) 
 I mistakenly deleted a cycle gan directory I made in my lab server computer by typing rm :( 
 My initial attempts were to provide both corrupted images loaded from .ipynb file and datasets crawled from web portals 
@@ -41,8 +41,8 @@ reference : [cycle gan from lornatang](https://github.com/Lornatang/CycleGAN-PyT
 - Progressive Face Aging (PFA) GAN [@haenara](https://github.com/Hzzone/PFA-GAN) - Failed
 
 ## 3. Test I : 반려견 과거 이미지 생성 (6/26~6/30)
-- [StyleGAN2-ada | 주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion.ipynb) [@seungwon song](https://github.com/sw-song)
-- [StyleGAN2-ada | 파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/conversion.py) [@seungwon song](https://github.com/sw-song)
+- [StyleGAN2-ada | 주피터 노트북 | 테스트 코드](https://github.com/haenara-shin/GAN_Project/blob/master/Test/code/style_conversion.ipynb) [@seungwon song](https://github.com/seungson)
+- [StyleGAN2-ada | 파이썬 | 테스트 코드](https://github.com/sw-song/stylegan2-ada-pytorch/blob/main/conversion.py) [@seungwon song](https://github.com/seungson)
 
 > .py 테스트코드 가이드
 
@@ -74,11 +74,11 @@ by subtracting `sample_before` from `sample_after`)
                       --network https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/afhqdog.pkl
 ```
 
-- [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/sw-song)
+- [StyleGAN2-ada | 테스트 결과 | 시바견](https://github.com/haenara-shin/GAN_Project/tree/master/Test/result/siba_inu)  [@seungwon song](https://github.com/seungson)
 - [Ada,Stylegan,Stylegan2 논문 설명 (모델 설명 📁)](https://github.com/haenara-shin/GAN_Project/tree/master/Test/모델%20설명)  [@jiyoon baek](https://github.com/jiyoonbaekbaek)
-- [StyleGAN2-ada | 테스트 코드/결과 | 웰시코기, 시바견, 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_conversion_with_interpolation.ipynb) [@seungwon song](https://github.com/sw-song) ❎
-- [Style Transfer | 테스트 코드/결과 | 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_transfer_test.ipynb) [@seungwon song](https://github.com/sw-song) ❎
-- [StyleGAN2-ada | 테스트 코드/결과 | 요키+body+background](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/image_projection_test_body.ipynb) [@seungwon song](https://github.com/sw-song) ❎
+- [StyleGAN2-ada | 테스트 코드/결과 | 웰시코기, 시바견, 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_conversion_with_interpolation.ipynb) [@seungwon song](https://github.com/seungson) ❎
+- [Style Transfer | 테스트 코드/결과 | 요키](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/style_transfer_test.ipynb) [@seungwon song](https://github.com/seungson) ❎
+- [StyleGAN2-ada | 테스트 코드/결과 | 요키+body+background](https://github.com/haenara-shin/GAN_Project/tree/master/Test/code/image_projection_test_body.ipynb) [@seungwon song](https://github.com/seungson) ❎
 
 ## 4. Test II : 반려견 성장 비디오 생성 (6/30~)
 - 
